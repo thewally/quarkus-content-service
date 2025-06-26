@@ -1,5 +1,14 @@
 # quarkus-content-service
 
+## Prerequisites
+- Java 17
+- Maven
+- AWS account
+- AWS CLI installed (see https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+- AWS SAM CLI installed (see https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html)
+- Configured AWS CLI (via aws configure) - access & secret key configured for your AWS account
+
+
 ## How to run locally
 1. ```docker compose up```
 ---
